@@ -6,4 +6,4 @@ coś ciekawgo
 
 bla bla
 
-Zajrzyj [tutaj(http://wp.pl)
+Zajrzyj [tutaj(http://wp.pl)]
